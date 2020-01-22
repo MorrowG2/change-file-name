@@ -1,4 +1,5 @@
 import os
+# Add proper folder name to the path variable
 path = r'C:\Users\'
 files = os.listdir(path)
 i = 1
